@@ -8,7 +8,7 @@ def hello():
 
 @app.route('/second')
 def second():
-    return 'Bize her yer Adana!!!'
+    return 'Bize her yer Trabzon!!!'
 
 @app.route('/third/subthird')
 def third():
