@@ -1,0 +1,2 @@
+“birinci satıra bu yazıyı yaz…”
+“ikinci satıra bu yazıyı yaz…..”
