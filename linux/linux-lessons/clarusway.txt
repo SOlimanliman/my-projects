@@ -1,5 +1,4 @@
 Welcome to the linux lessons
-line 1
 line 2
 line 3
 line 4
@@ -14,3 +13,4 @@ line 12
 line 13
 line 14
 Line 15
+c
